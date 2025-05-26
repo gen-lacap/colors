@@ -1,0 +1,5 @@
+Cyan
+White
+Black
+Green
+Blue
