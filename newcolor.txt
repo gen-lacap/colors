@@ -1,0 +1,3 @@
+new-color blue
+new-color yellow
+new-color red
